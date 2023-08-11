@@ -1,5 +1,12 @@
 # website
 
+## 0.2.0
+
+### Features
+
+- [#5092](https://github.com/gradio-app/gradio/pull/5092) [`643442e1`](https://github.com/gradio-app/gradio/commit/643442e1a5e25fc0c89a15a38b6279b8955643ac) - generate docs json in ci, reimplement main vs release. Thanks [@pngwn](https://github.com/pngwn)!
+- [#5186](https://github.com/gradio-app/gradio/pull/5186) [`24b66e1c`](https://github.com/gradio-app/gradio/commit/24b66e1cff0452bce71c71cea1b818913aeb8d51) - homepage demo update. Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 0.1.0
 
 ### Features

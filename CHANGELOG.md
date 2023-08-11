@@ -1,5 +1,16 @@
 # gradio
 
+## 3.41.0
+
+### Features
+
+- [#4943](https://github.com/gradio-app/gradio/pull/4943) [`947d615d`](https://github.com/gradio-app/gradio/commit/947d615db6f76519d0e8bc0d1a0d7edf89df267b) - Sign in with Hugging Face (OAuth support). Thanks [@Wauplin](https://github.com/Wauplin)!
+- [#5188](https://github.com/gradio-app/gradio/pull/5188) [`b22e1888`](https://github.com/gradio-app/gradio/commit/b22e1888fcf0843520525c1e4b7e1fe73fdeb948) - Fix the images in the theme builder to use permanent URI. Thanks [@abidlabs](https://github.com/abidlabs)!
+
+### Fixes
+
+- [#5179](https://github.com/gradio-app/gradio/pull/5179) [`6fb92b48`](https://github.com/gradio-app/gradio/commit/6fb92b48a916104db573602011a448b904d42e5e) - Fixes audio streaming issues. Thanks [@aliabid94](https://github.com/aliabid94)!
+
 ## 3.40.0
 
 ### Highlights
